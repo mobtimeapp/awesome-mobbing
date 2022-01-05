@@ -13,7 +13,6 @@ A list of awesome mobbing/ensemble/team programming resources. PRs are very welc
 
 ## Social Media
 
-
 ### Twitter accounts
 
 - [@mobtime_app](https://twitter.com/mobtime_app)
