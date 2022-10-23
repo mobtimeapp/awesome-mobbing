@@ -7,6 +7,7 @@ A list of awesome mobbing/ensemble/team programming resources. PRs are very welc
 ### Web
 
  - [mobti.me](https://mobti.me) - A free, collaborative, real-time mobbing timer.
+ - [MobTime.hadrienmp.fr](https://mobtime.hadrienmp.fr/) - Another free, collaborative, real-time mobbing timer.
  - [mob.sh](https://mob.sh) - A free, script which gives you a simple set of shell commands for a fast handover.
    - [timer.mob.sh](https://timer.mob.sh) - A timer, for the mob.sh script.
    - [Mob.sh Intellij Plugin](https://plugins.jetbrains.com/plugin/14266-mob) - A plugin version of mob.sh.
